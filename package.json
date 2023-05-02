@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "@ngrx/schematics": "^15.4.0"
+  }
+}
